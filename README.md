@@ -8,6 +8,10 @@
 
 <img src="https://imgur.com/WeYDrEB.png">
 
+<div align="center">
+  <img src="./.github/rocket_video.gif">
+</div>
+
 # Rocketseat Ignite Lab React Native
 
 Evento da [Rocketseat](https://www.youtube.com/c/RocketSeat). Aplicativo para controle de solicitações de ajuda.
