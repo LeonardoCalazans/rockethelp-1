@@ -1,7 +1,8 @@
 <h1 align="center">Rockethelp 🗨</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
@@ -24,5 +25,4 @@ Evento da [Rocketseat](https://www.youtube.com/c/RocketSeat). Aplicativo para co
 - [Expo](https://expo.dev)
 - [React Navigation](https://reactnavigation.org)
 - [Native Base](https://nativebase.io)
-- [React Hook Form](https://react-hook-form.com)
 - [Firebase](https://firebase.google.com)
